@@ -1,2 +1,1 @@
-# weather-forecasting-app-with-github-workspace
-A repository for a weather forecasting app
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
